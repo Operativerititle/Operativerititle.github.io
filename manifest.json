@@ -1,0 +1,26 @@
+{
+  "name": "Телеграм Компас — 65 живых прокси для Телеграма на 15:33 МСК",
+  "short_name": "Телеграм Компас",
+  "description": "Список из 65 рабочих MTProto-прокси для Telegram на Телеграм Компас: наши серверы и проверенные публичные, пинг, мгновенное подключение.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f4fb",
+  "theme_color": "#2c259d",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

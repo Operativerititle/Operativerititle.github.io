@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://operativerititle.github.io/sitemap.xml
